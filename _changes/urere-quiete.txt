@@ -1,0 +1,2 @@
+mods/data/urere-quiete/urere-quiete-hard.json
+mods/songs/urere-quiete/inst.ogg
